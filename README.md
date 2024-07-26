@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {Davy}!
+## 💜 Olá, meu nome é Davy!
 
 🔭 Atualmente trabalho na área de Gestão de Projetos de Tecnologia, desenvolvendo automaçõoes utilzando VBA e Python e na criação de Visuais no PowerBI via DataBricks por SQL.
 
