@@ -1,8 +1,8 @@
 ## 👨‍💻 Olá, meu nome é Davy!
 
-🔭 Atualmente trabalho como Desenvolvedor Back-End, desenvolvendo ferramanetas e integrações de servidor/api através de C# e .NET e SQL.
+🔭 Atualmente trabalho como Desenvolvedor Back-End, desenvolvendo ferramentas CRUD/integrações de servidor/api através de .NET, Angular e SQL.
 
-💬 Cursando Engenharia de Software, tenho interesse em ir para área de Desenvolvimento Full-Stack, por isso em meus estudos estou focado em Typescript, Node.js e React.js.
+💬 Com foco em aprendizado para área de Desenvolvimento Full-Stack, por isso em meus trabalhos estou focado em Typescript, Node.js e React.js.
 
 ---
 
